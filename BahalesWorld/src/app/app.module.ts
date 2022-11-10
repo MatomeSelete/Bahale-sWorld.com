@@ -21,11 +21,15 @@ import { AppRoutingModule } from './app-routing.module';
     DesignsPageComponent
   ],
   imports: [
+<<<<<<< HEAD
     BrowserModule,
     AppRoutingModule,
     RouterModule,
     HttpClientModule,
     AppRoutingModule
+=======
+    BrowserModule
+>>>>>>> cd02028ddf77f757c26feb790786473e3b75e4ba
   ],
   providers: [],
   bootstrap: [AppComponent]
